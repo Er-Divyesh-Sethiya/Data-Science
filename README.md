@@ -1,2 +1,2 @@
 # Data-Science
-Learn data science skills : Pyhton, Pandas, matplotlib, sklearn, spacy, seabron, math, stats etc..
+Learn data science skills : Pyhton, Python Libraries, Machine Learning, Natural Language Processing, Artifical neural network etc..
